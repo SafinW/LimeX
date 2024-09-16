@@ -1,5 +1,3 @@
----
-
 # LimeX (Work in Progress) 🚧
 
 **LimeX** is a fork of **GZDoom** designed to run using **DirectX** 🎮. It offers an alternative to the OpenGL backend while maintaining compatibility with the GZDoom ecosystem.
